@@ -1,0 +1,177 @@
+[
+  {
+    "Repository": "scikit-hep/awkward",
+    "File path": "awkward-cpp/pyproject.toml",
+    "stars": 690
+  },
+  {
+    "Repository": "scikit-hep/awkward",
+    "File path": "header-only/examples/pybind11/pyproject.toml",
+    "stars": 690
+  },
+  {
+    "Repository": "gromacs/gromacs",
+    "File path": "python_packaging/gmxapi/pyproject.toml",
+    "stars": 535
+  },
+  {
+    "Repository": "LuisaGroup/LuisaCompute",
+    "File path": "pyproject.toml",
+    "stars": 413
+  },
+  {
+    "Repository": "aewallin/opencamlib",
+    "File path": "pyproject.toml",
+    "stars": 322
+  },
+  {
+    "Repository": "spglib/spglib",
+    "File path": "pyproject.toml",
+    "stars": 219
+  },
+  {
+    "Repository": "thomasantony/llamacpp-python",
+    "File path": "pyproject.toml",
+    "stars": 177
+  },
+  {
+    "Repository": "zerothi/sisl",
+    "File path": "pyproject.toml",
+    "stars": 141
+  },
+  {
+    "Repository": "fikisipi/elkai",
+    "File path": "pyproject.toml",
+    "stars": 132
+  },
+  {
+    "Repository": "scikit-hep/cookie",
+    "File path": "{{cookiecutter.project_name}}/pyproject.toml",
+    "stars": 71
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/fortran_example/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "docs/examples/getting_started/pybind11/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/simplest_c/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/custom_cmake/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/dynamic_metadata/local_pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/dynamic_metadata/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/abi3_pyproject_ext/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "tests/packages/abi3_setuptools_ext/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "docs/examples/getting_started/cython/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "docs/examples/getting_started/fortran/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "docs/examples/getting_started/abi3/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "docs/examples/getting_started/swig/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-core",
+    "File path": "docs/examples/getting_started/c/pyproject.toml",
+    "stars": 66
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/core-pybind11-hello/pyproject.toml",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/core-c-hello/pyproject.toml",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/pi-fortran/pyproject.toml",
+    "stars": 62
+  },
+  {
+    "Repository": "pybind/scikit_build_example",
+    "File path": "pyproject.toml",
+    "stars": 53
+  },
+  {
+    "Repository": "douglasdavis/pygram11",
+    "File path": "pyproject.toml",
+    "stars": 27
+  },
+  {
+    "Repository": "alugowski/fast_matrix_market",
+    "File path": "python/pyproject.toml",
+    "stars": 23
+  },
+  {
+    "Repository": "ssciwr/pybind11-numpy-example",
+    "File path": "pyproject.toml",
+    "stars": 14
+  },
+  {
+    "Repository": "henryiii/se-for-sci",
+    "File path": "content/week12/04-example/pyproject.toml",
+    "stars": 13
+  },
+  {
+    "Repository": "jameslamb/pydistcheck",
+    "File path": "tests/data/baseballmetrics/pyproject.toml",
+    "stars": 13
+  },
+  {
+    "Repository": "SideChannelMarvels/BlueGalaxyEnergy",
+    "File path": "pyproject.toml",
+    "stars": 8
+  },
+  {
+    "Repository": "JeanElsner/panda_model",
+    "File path": "pyproject.toml",
+    "stars": 5
+  }
+]
