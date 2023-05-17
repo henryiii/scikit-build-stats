@@ -1,0 +1,2157 @@
+[
+  {
+    "Repository": "taichi-dev/taichi",
+    "File path": "setup.py",
+    "stars": 23045
+  },
+  {
+    "Repository": "vaexio/vaex",
+    "File path": "packages/vaex-core/setup.py",
+    "stars": 7902
+  },
+  {
+    "Repository": "rapidsai/cudf",
+    "File path": "python/cudf/setup.py",
+    "stars": 5513
+  },
+  {
+    "Repository": "halide/Halide",
+    "File path": "setup.py",
+    "stars": 5405
+  },
+  {
+    "Repository": "opencv/opencv-python",
+    "File path": "setup.py",
+    "stars": 3481
+  },
+  {
+    "Repository": "cmusphinx/pocketsphinx",
+    "File path": "setup.py",
+    "stars": 3359
+  },
+  {
+    "Repository": "rapidsai/cuml",
+    "File path": "python/setup.py",
+    "stars": 3321
+  },
+  {
+    "Repository": "OGRECave/ogre",
+    "File path": "setup.py",
+    "stars": 3276
+  },
+  {
+    "Repository": "benfred/implicit",
+    "File path": "setup.py",
+    "stars": 3153
+  },
+  {
+    "Repository": "surge-synthesizer/surge",
+    "File path": "src/surge-python/setup.py",
+    "stars": 2494
+  },
+  {
+    "Repository": "maxbachmann/RapidFuzz",
+    "File path": "setup.py",
+    "stars": 1850
+  },
+  {
+    "Repository": "pyutils/line_profiler",
+    "File path": "setup.py",
+    "stars": 1814
+  },
+  {
+    "Repository": "pytorch/torchrec",
+    "File path": "contrib/dynamic_embedding/setup.py",
+    "stars": 1423
+  },
+  {
+    "Repository": "mitsuba-renderer/mitsuba3",
+    "File path": "setup.py",
+    "stars": 1372
+  },
+  {
+    "Repository": "rapidsai/cugraph",
+    "File path": "python/cugraph/setup.py",
+    "stars": 1292
+  },
+  {
+    "Repository": "rapidsai/cugraph",
+    "File path": "python/pylibcugraph/setup.py",
+    "stars": 1292
+  },
+  {
+    "Repository": "mitsuba-renderer/nanogui",
+    "File path": "setup.py",
+    "stars": 1275
+  },
+  {
+    "Repository": "abetlen/llama-cpp-python",
+    "File path": "setup.py",
+    "stars": 1151
+  },
+  {
+    "Repository": "deepmodeling/deepmd-kit",
+    "File path": "setup.py",
+    "stars": 1124
+  },
+  {
+    "Repository": "NVIDIA/VideoProcessingFramework",
+    "File path": "setup.py",
+    "stars": 1061
+  },
+  {
+    "Repository": "pytorch/FBGEMM",
+    "File path": "fbgemm_gpu/setup.py",
+    "stars": 936
+  },
+  {
+    "Repository": "adobe-type-tools/afdko",
+    "File path": "setup.py",
+    "stars": 900
+  },
+  {
+    "Repository": "YannickJadoul/Parselmouth",
+    "File path": "setup.py",
+    "stars": 865
+  },
+  {
+    "Repository": "freebsd/freebsd-ports",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 843
+  },
+  {
+    "Repository": "PRBonn/kiss-icp",
+    "File path": "python/setup.py",
+    "stars": 833
+  },
+  {
+    "Repository": "NVIDIA-Merlin/HugeCTR",
+    "File path": "sparse_operation_kit/setup.py",
+    "stars": 798
+  },
+  {
+    "Repository": "NVIDIA-Merlin/HugeCTR",
+    "File path": "hps_tf/setup.py",
+    "stars": 798
+  },
+  {
+    "Repository": "scikit-hep/awkward",
+    "File path": "header-only/examples/cython/setup.py",
+    "stars": 690
+  },
+  {
+    "Repository": "cntools/libsurvive",
+    "File path": "setup.py",
+    "stars": 650
+  },
+  {
+    "Repository": "uber/h3-py",
+    "File path": "setup.py",
+    "stars": 644
+  },
+  {
+    "Repository": "mpi4py/mpi4py",
+    "File path": "setup.py",
+    "stars": 642
+  },
+  {
+    "Repository": "rordenlab/dcm2niix",
+    "File path": "setup.py",
+    "stars": 633
+  },
+  {
+    "Repository": "sfepy/sfepy",
+    "File path": "setup.py",
+    "stars": 614
+  },
+  {
+    "Repository": "siliconcompiler/siliconcompiler",
+    "File path": "setup.py",
+    "stars": 610
+  },
+  {
+    "Repository": "deepmind/hanabi-learning-environment",
+    "File path": "setup.py",
+    "stars": 606
+  },
+  {
+    "Repository": "deeptime-ml/deeptime",
+    "File path": "setup.py",
+    "stars": 569
+  },
+  {
+    "Repository": "nv-legate/cunumeric",
+    "File path": "setup.py",
+    "stars": 555
+  },
+  {
+    "Repository": "microsoft/picologging",
+    "File path": "setup.py",
+    "stars": 516
+  },
+  {
+    "Repository": "potassco/clingo",
+    "File path": "setup.py",
+    "stars": 492
+  },
+  {
+    "Repository": "rapidsai/cuspatial",
+    "File path": "python/cuspatial/setup.py",
+    "stars": 429
+  },
+  {
+    "Repository": "equinor/segyio",
+    "File path": "python/setup.py",
+    "stars": 425
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-401-sdist-with-symlinks/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/fail-outside-project-root/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/test-include-exclude-data/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-668-symbol-visibility/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-284-build-ext-inplace/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-334-configure-cmakelist-non-cp1252-encoding/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/fail-hello-with-compile-error/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-274-support-one-package-without-package-dir/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-274-support-default-package-dir/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/cmakelists-not-in-top-level-dir/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/fail-with-fatal-error-cmakelists/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/fail-with-syntax-error-cmakelists/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/test-filter-manifest/wrapping/python/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/test-include-exclude-data-with-base/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/test_issue342_cmake_osx_args_in_setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-707-nested-packages/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/issue-335-support-cmake-source-dir/wrapping/python/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/fail-unless-skbuild-set/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-no-language/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/manifest-in/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-pure/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/cython-flags/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-cython/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-pep518/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/test-hide-listing/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-fortran/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/test_setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/test-cmake-target/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-numpy/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "scikit-build/scikit-build",
+    "File path": "tests/samples/hello-cpp/setup.py",
+    "stars": 418
+  },
+  {
+    "Repository": "pfsense/FreeBSD-ports",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 408
+  },
+  {
+    "Repository": "arrayfire/arrayfire-python",
+    "File path": "setup.py",
+    "stars": 406
+  },
+  {
+    "Repository": "mitsuba-renderer/drjit",
+    "File path": "setup.py",
+    "stars": 360
+  },
+  {
+    "Repository": "Qiskit/qiskit-aer",
+    "File path": "setup.py",
+    "stars": 350
+  },
+  {
+    "Repository": "Blosc/python-blosc",
+    "File path": "setup.py",
+    "stars": 334
+  },
+  {
+    "Repository": "OpenBluetoothToolbox/SimpleBLE",
+    "File path": "setup.py",
+    "stars": 328
+  },
+  {
+    "Repository": "DGtal-team/DGtal",
+    "File path": "wrap/deploy/setup.py",
+    "stars": 326
+  },
+  {
+    "Repository": "rapidsai/rmm",
+    "File path": "python/setup.py",
+    "stars": 324
+  },
+  {
+    "Repository": "aewallin/opencamlib",
+    "File path": "setup.py",
+    "stars": 322
+  },
+  {
+    "Repository": "NERSC/timemory",
+    "File path": "setup.py",
+    "stars": 315
+  },
+  {
+    "Repository": "NGSolve/ngsolve",
+    "File path": "setup.py",
+    "stars": 315
+  },
+  {
+    "Repository": "OpenChemistry/avogadrolibs",
+    "File path": "setup.py",
+    "stars": 314
+  },
+  {
+    "Repository": "daanzu/kaldi-active-grammar",
+    "File path": "setup.py",
+    "stars": 313
+  },
+  {
+    "Repository": "DigitalSlideArchive/HistomicsTK",
+    "File path": "setup.py",
+    "stars": 311
+  },
+  {
+    "Repository": "syoyo/tinyusdz",
+    "File path": "setup.py",
+    "stars": 284
+  },
+  {
+    "Repository": "pthom/imgui_bundle",
+    "File path": "setup.py",
+    "stars": 280
+  },
+  {
+    "Repository": "ds4dm/ecole",
+    "File path": "setup.py",
+    "stars": 273
+  },
+  {
+    "Repository": "IntelligentSoftwareSystems/Galois",
+    "File path": "setup.py",
+    "stars": 262
+  },
+  {
+    "Repository": "rapidsai/raft",
+    "File path": "python/raft-dask/setup.py",
+    "stars": 250
+  },
+  {
+    "Repository": "rapidsai/raft",
+    "File path": "python/pylibraft/setup.py",
+    "stars": 250
+  },
+  {
+    "Repository": "Nic30/hdlConvertor",
+    "File path": "setup.py",
+    "stars": 228
+  },
+  {
+    "Repository": "adobe/lagrange",
+    "File path": "setup.py",
+    "stars": 215
+  },
+  {
+    "Repository": "glotzerlab/freud",
+    "File path": "setup.py",
+    "stars": 211
+  },
+  {
+    "Repository": "NGSolve/netgen",
+    "File path": "setup.py",
+    "stars": 207
+  },
+  {
+    "Repository": "IBM/aihwkit",
+    "File path": "setup.py",
+    "stars": 204
+  },
+  {
+    "Repository": "RTKConsortium/RTK",
+    "File path": "setup.py",
+    "stars": 200
+  },
+  {
+    "Repository": "Erotemic/xdoctest",
+    "File path": "tests/pybind11_test/setup.py",
+    "stars": 186
+  },
+  {
+    "Repository": "Kitware/kwiver",
+    "File path": "CMake/kwiver-setup-python.cmake",
+    "stars": 180
+  },
+  {
+    "Repository": "Kitware/kwiver",
+    "File path": "python/setup.py",
+    "stars": 180
+  },
+  {
+    "Repository": "OpenVoiceOS/ovos-buildroot",
+    "File path": "buildroot-external/board/ovos/raspberrypi/rootfs-overlay/base/home/mycroft/.local/setup.py",
+    "stars": 178
+  },
+  {
+    "Repository": "ALIGN-analoglayout/ALIGN-public",
+    "File path": "setup.py",
+    "stars": 175
+  },
+  {
+    "Repository": "huggingface/simulate",
+    "File path": "setup.py",
+    "stars": 174
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "examples/reduction/setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "examples/hello/setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "examples/io/setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "tests/integration/registry/setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "tests/integration/scoping/setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "nv-legate/legate.core",
+    "File path": "tests/integration/tree_reduce/setup.py",
+    "stars": 162
+  },
+  {
+    "Repository": "YoungXIAO13/PoseFromShape",
+    "File path": "data/virtual_scanner/setup.py",
+    "stars": 161
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/itk-wasm",
+    "File path": "setup.py",
+    "stars": 153
+  },
+  {
+    "Repository": "rgl-epfl/cholespy",
+    "File path": "setup.py",
+    "stars": 149
+  },
+  {
+    "Repository": "maxbachmann/Levenshtein",
+    "File path": "setup.py",
+    "stars": 133
+  },
+  {
+    "Repository": "KaveIO/PhiK",
+    "File path": "setup.py",
+    "stars": 128
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKElastix",
+    "File path": "setup.py",
+    "stars": 127
+  },
+  {
+    "Repository": "MerginMaps/geodiff",
+    "File path": "setup.py",
+    "stars": 125
+  },
+  {
+    "Repository": "silnrsi/graphite",
+    "File path": "setup.py",
+    "stars": 124
+  },
+  {
+    "Repository": "opnsense/ports",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 121
+  },
+  {
+    "Repository": "NordicSemiconductor/pc-ble-driver-py",
+    "File path": "setup.py",
+    "stars": 119
+  },
+  {
+    "Repository": "GooFit/GooFit",
+    "File path": "setup.py",
+    "stars": 116
+  },
+  {
+    "Repository": "fbertola/bgfx-python",
+    "File path": "setup.py",
+    "stars": 113
+  },
+  {
+    "Repository": "pyomeca/ezc3d",
+    "File path": "setup.py",
+    "stars": 107
+  },
+  {
+    "Repository": "ufz/ogs",
+    "File path": "setup.py",
+    "stars": 106
+  },
+  {
+    "Repository": "python-control/Slycot",
+    "File path": "setup.py",
+    "stars": 102
+  },
+  {
+    "Repository": "pupil-labs/pyuvc",
+    "File path": "setup.py",
+    "stars": 101
+  },
+  {
+    "Repository": "insight-platform/Savant",
+    "File path": "libs/savantboost/setup.py",
+    "stars": 100
+  },
+  {
+    "Repository": "insight-platform/Savant",
+    "File path": "libs/gstsavantframemeta/setup.py",
+    "stars": 100
+  },
+  {
+    "Repository": "equinor/dlisio",
+    "File path": "python/setup.py",
+    "stars": 99
+  },
+  {
+    "Repository": "equinor/xtgeo",
+    "File path": "setup.py",
+    "stars": 98
+  },
+  {
+    "Repository": "scikit-build/cmake-python-distributions",
+    "File path": "setup.py",
+    "stars": 94
+  },
+  {
+    "Repository": "ksahlin/StrobeAlign",
+    "File path": "setup.py",
+    "stars": 92
+  },
+  {
+    "Repository": "arbor-sim/arbor",
+    "File path": "setup.py",
+    "stars": 91
+  },
+  {
+    "Repository": "boschmitt/tweedledum",
+    "File path": "setup.py",
+    "stars": 86
+  },
+  {
+    "Repository": "PDAL/python",
+    "File path": "setup.py",
+    "stars": 85
+  },
+  {
+    "Repository": "DragonFlyBSD/DPorts",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 83
+  },
+  {
+    "Repository": "steineggerlab/foldcomp",
+    "File path": "setup.py",
+    "stars": 81
+  },
+  {
+    "Repository": "rpm-software-management/createrepo_c",
+    "File path": "setup.py",
+    "stars": 80
+  },
+  {
+    "Repository": "equinor/ecl",
+    "File path": "setup.py",
+    "stars": 80
+  },
+  {
+    "Repository": "yushulx/python-capture-device-list",
+    "File path": "setup.py",
+    "stars": 79
+  },
+  {
+    "Repository": "mutationpp/Mutationpp",
+    "File path": "setup.py",
+    "stars": 79
+  },
+  {
+    "Repository": "equinor/ert",
+    "File path": "setup.py",
+    "stars": 78
+  },
+  {
+    "Repository": "theengs/decoder",
+    "File path": "setup.py",
+    "stars": 77
+  },
+  {
+    "Repository": "theengs/decoder",
+    "File path": "python/setup.py",
+    "stars": 77
+  },
+  {
+    "Repository": "AMYPAD/CuVec",
+    "File path": "setup.py",
+    "stars": 76
+  },
+  {
+    "Repository": "OpenJij/OpenJij",
+    "File path": "setup.py",
+    "stars": 76
+  },
+  {
+    "Repository": "scipp/scipp",
+    "File path": "setup.py",
+    "stars": 71
+  },
+  {
+    "Repository": "lab-cosmo/librascal",
+    "File path": "setup.py",
+    "stars": 68
+  },
+  {
+    "Repository": "OpenWaterAnalytics/epanet-python",
+    "File path": "owa-epanet/setup.py",
+    "stars": 68
+  },
+  {
+    "Repository": "wkentaro/octomap-python",
+    "File path": "setup.py",
+    "stars": 66
+  },
+  {
+    "Repository": "IntelPython/dpnp",
+    "File path": "setup.py",
+    "stars": 64
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/hello-cpp/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/pen2-cython/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/hello-cython/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/hello-pure/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/hello-cmake-package/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/hello-pybind11/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "cmpute/pcl.py",
+    "File path": "setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "scikit-build/scikit-build-sample-projects",
+    "File path": "projects/tower-of-babel/setup.py",
+    "stars": 62
+  },
+  {
+    "Repository": "python-packaging-tutorial/python-packaging-tutorial",
+    "File path": "test_recipes/hello-cython/setup.py",
+    "stars": 61
+  },
+  {
+    "Repository": "IntelPython/dpctl",
+    "File path": "examples/pybind11/use_dpctl_sycl_queue/setup.py",
+    "stars": 60
+  },
+  {
+    "Repository": "IntelPython/dpctl",
+    "File path": "examples/pybind11/onemkl_gemv/setup.py",
+    "stars": 60
+  },
+  {
+    "Repository": "IntelPython/dpctl",
+    "File path": "examples/pybind11/use_dpctl_sycl_kernel/setup.py",
+    "stars": 60
+  },
+  {
+    "Repository": "IntelPython/dpctl",
+    "File path": "setup.py",
+    "stars": 60
+  },
+  {
+    "Repository": "IntelPython/dpctl",
+    "File path": "examples/pybind11/external_usm_allocation/setup.py",
+    "stars": 60
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKPythonPackage",
+    "File path": "scripts/setup.py.in",
+    "stars": 58
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKPythonPackage",
+    "File path": "setup.py",
+    "stars": 58
+  },
+  {
+    "Repository": "Nicholaswogan/numbalsoda",
+    "File path": "setup.py",
+    "stars": 57
+  },
+  {
+    "Repository": "ORNL/TASMANIAN",
+    "File path": "InterfacePython/PipInstaller/setup.py",
+    "stars": 57
+  },
+  {
+    "Repository": "seung-lab/DracoPy",
+    "File path": "setup.py",
+    "stars": 55
+  },
+  {
+    "Repository": "ssciwr/clang-format-wheel",
+    "File path": "setup.py",
+    "stars": 53
+  },
+  {
+    "Repository": "WildMeOrg/wildbook-ia",
+    "File path": "setup.py",
+    "stars": 53
+  },
+  {
+    "Repository": "wjakob/nanobind_example",
+    "File path": "setup.py",
+    "stars": 53
+  },
+  {
+    "Repository": "rapidsai/kvikio",
+    "File path": "python/setup.py",
+    "stars": 51
+  },
+  {
+    "Repository": "rapidsai/kvikio",
+    "File path": "legate/setup.py",
+    "stars": 51
+  },
+  {
+    "Repository": "kassonlab/gmxapi",
+    "File path": "python_packaging/src/setup.py",
+    "stars": 50
+  },
+  {
+    "Repository": "chopralab/lemon",
+    "File path": "setup.py",
+    "stars": 49
+  },
+  {
+    "Repository": "pywinrt/python-winsdk",
+    "File path": "setup.py",
+    "stars": 48
+  },
+  {
+    "Repository": "Socrats/EGTTools",
+    "File path": "setup.py",
+    "stars": 48
+  },
+  {
+    "Repository": "Blosc/python-blosc2",
+    "File path": "setup.py",
+    "stars": 47
+  },
+  {
+    "Repository": "rgl-epfl/fastsweep",
+    "File path": "setup.py",
+    "stars": 47
+  },
+  {
+    "Repository": "freebsd/freebsd-ports-kde",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 47
+  },
+  {
+    "Repository": "robertjoosten/maya-dem-bones",
+    "File path": "setup.py",
+    "stars": 46
+  },
+  {
+    "Repository": "BlueBrain/nmodl",
+    "File path": "setup.py",
+    "stars": 46
+  },
+  {
+    "Repository": "KitwareMedical/ITKUltrasound",
+    "File path": "setup.py",
+    "stars": 45
+  },
+  {
+    "Repository": "INET-Complexity/ESL",
+    "File path": "setup.py",
+    "stars": 44
+  },
+  {
+    "Repository": "duckstax/ottergon",
+    "File path": "integration/python/ottergon/setup.py",
+    "stars": 43
+  },
+  {
+    "Repository": "FEniCS/basix",
+    "File path": "setup.py",
+    "stars": 42
+  },
+  {
+    "Repository": "PearCoding/Ignis",
+    "File path": "src/frontend/python/setup.py.in",
+    "stars": 42
+  },
+  {
+    "Repository": "ScQ-Cloud/pyquafu",
+    "File path": "setup.py",
+    "stars": 41
+  },
+  {
+    "Repository": "yushulx/python-barcode-qrcode-sdk",
+    "File path": "setup.py",
+    "stars": 40
+  },
+  {
+    "Repository": "Erotemic/netharn",
+    "File path": "setup.py",
+    "stars": 38
+  },
+  {
+    "Repository": "aestream/aestream",
+    "File path": "setup.py",
+    "stars": 37
+  },
+  {
+    "Repository": "tizian/differential-mc-estimators",
+    "File path": "setup.py",
+    "stars": 36
+  },
+  {
+    "Repository": "wang-ps/O-CNN",
+    "File path": "virtual_scanner/setup.py",
+    "stars": 36
+  },
+  {
+    "Repository": "pylada/pylada-light",
+    "File path": "setup.py",
+    "stars": 36
+  },
+  {
+    "Repository": "scikit-build/ninja-python-distributions",
+    "File path": "setup.py",
+    "stars": 36
+  },
+  {
+    "Repository": "gostevehoward/confseq",
+    "File path": "setup.py",
+    "stars": 36
+  },
+  {
+    "Repository": "3dgeo-heidelberg/py4dgeo",
+    "File path": "setup.py",
+    "stars": 35
+  },
+  {
+    "Repository": "ssciwr/cookiecutter-cpp-project",
+    "File path": "{{cookiecutter.project_slug}}/setup.py",
+    "stars": 35
+  },
+  {
+    "Repository": "DLR-SC/memilio",
+    "File path": "pycode/memilio-simulation/setup.py",
+    "stars": 34
+  },
+  {
+    "Repository": "alibaba/code-data-share-for-python",
+    "File path": "setup.py",
+    "stars": 34
+  },
+  {
+    "Repository": "zivid/zivid-python",
+    "File path": "setup.py",
+    "stars": 34
+  },
+  {
+    "Repository": "DLR-SC/memilio",
+    "File path": "pycode/memilio-generation/setup.py",
+    "stars": 34
+  },
+  {
+    "Repository": "datasig-ac-uk/esig",
+    "File path": "setup.py",
+    "stars": 34
+  },
+  {
+    "Repository": "ethz-asl/3dsnet",
+    "File path": "auxiliary/sampling_and_meshing/O-CNN/virtual_scanner/setup.py",
+    "stars": 33
+  },
+  {
+    "Repository": "RockRobotic/copc-lib",
+    "File path": "setup.py",
+    "stars": 33
+  },
+  {
+    "Repository": "tmontaigu/CloudCompare-PythonPlugin",
+    "File path": "wrapper/cccorelib/setup.py",
+    "stars": 33
+  },
+  {
+    "Repository": "dfm/jax-finufft",
+    "File path": "setup.py",
+    "stars": 33
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKTubeTK",
+    "File path": "setup.py",
+    "stars": 33
+  },
+  {
+    "Repository": "tmontaigu/CloudCompare-PythonPlugin",
+    "File path": "wrapper/pycc/setup.py",
+    "stars": 33
+  },
+  {
+    "Repository": "daanzu/wenet_stt_python",
+    "File path": "setup.py",
+    "stars": 32
+  },
+  {
+    "Repository": "KitwareMedical/VTKPythonPackage",
+    "File path": "setup.py",
+    "stars": 32
+  },
+  {
+    "Repository": "dmpelt/msdnet",
+    "File path": "setup.py",
+    "stars": 32
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKThickness3D",
+    "File path": "setup.py",
+    "stars": 32
+  },
+  {
+    "Repository": "MichaelHillier/surfe",
+    "File path": "setup.py",
+    "stars": 29
+  },
+  {
+    "Repository": "Erotemic/shitspotter",
+    "File path": "setup.py",
+    "stars": 29
+  },
+  {
+    "Repository": "cmpute/d3d",
+    "File path": "setup.py",
+    "stars": 29
+  },
+  {
+    "Repository": "ctlee/gamer",
+    "File path": "setup.py",
+    "stars": 28
+  },
+  {
+    "Repository": "Jaybro/pico_tree",
+    "File path": "setup.py",
+    "stars": 28
+  },
+  {
+    "Repository": "BonexGoo/Boss2D",
+    "File path": "Boss2D/addon/pocketsphinx-5.0.0rc4_for_boss/setup.py",
+    "stars": 28
+  },
+  {
+    "Repository": "rpm-software-management/libcomps",
+    "File path": "setup.py",
+    "stars": 28
+  },
+  {
+    "Repository": "pyswmm/swmm-python",
+    "File path": "swmm-toolkit/setup.py",
+    "stars": 28
+  },
+  {
+    "Repository": "Xilinx/inference-server",
+    "File path": "src/amdinfer/bindings/python/setup.py",
+    "stars": 27
+  },
+  {
+    "Repository": "maxbachmann/JaroWinkler",
+    "File path": "setup.py",
+    "stars": 27
+  },
+  {
+    "Repository": "Xilinx/inference-server",
+    "File path": "setup.py",
+    "stars": 27
+  },
+  {
+    "Repository": "qnzhou/MshIO",
+    "File path": "setup.py",
+    "stars": 27
+  },
+  {
+    "Repository": "OPM/opm-common",
+    "File path": "python/setup.py.in",
+    "stars": 27
+  },
+  {
+    "Repository": "severinstrobl/overlap",
+    "File path": "setup.py",
+    "stars": 26
+  },
+  {
+    "Repository": "PySCeS/pysces",
+    "File path": "setup.py",
+    "stars": 26
+  },
+  {
+    "Repository": "kul-optec/alpaqa",
+    "File path": "setup.py",
+    "stars": 26
+  },
+  {
+    "Repository": "valgur/velodyne_decoder",
+    "File path": "setup.py",
+    "stars": 26
+  },
+  {
+    "Repository": "dune-project/dune-common",
+    "File path": "python/setup.py.in",
+    "stars": 26
+  },
+  {
+    "Repository": "dune-project/dune-common",
+    "File path": "setup.py",
+    "stars": 26
+  },
+  {
+    "Repository": "mhm-ufz/mHM",
+    "File path": "setup.py",
+    "stars": 25
+  },
+  {
+    "Repository": "pyre/pyre",
+    "File path": "setup.py",
+    "stars": 25
+  },
+  {
+    "Repository": "hemelb-codes/hemelb",
+    "File path": "geometry-tool/setup.py",
+    "stars": 25
+  },
+  {
+    "Repository": "ghostbsd/ghostbsd-ports",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 25
+  },
+  {
+    "Repository": "KitwareMedical/ITKMorphologicalContourInterpolation",
+    "File path": "setup.py",
+    "stars": 25
+  },
+  {
+    "Repository": "pupil-labs/pye3d-detector",
+    "File path": "setup.py",
+    "stars": 24
+  },
+  {
+    "Repository": "iory/texture-mapping",
+    "File path": "setup.py",
+    "stars": 24
+  },
+  {
+    "Repository": "realthunder/slvs_py",
+    "File path": "setup.py",
+    "stars": 24
+  },
+  {
+    "Repository": "Nicholaswogan/NumbaMinpack",
+    "File path": "setup.py",
+    "stars": 24
+  },
+  {
+    "Repository": "Chrismarsh/mesher",
+    "File path": "setup.py",
+    "stars": 23
+  },
+  {
+    "Repository": "ReadAlongs/SoundSwallower",
+    "File path": "setup.py",
+    "stars": 23
+  },
+  {
+    "Repository": "HITS-MBM/gromacs-fda",
+    "File path": "python_packaging/src/setup.py",
+    "stars": 23
+  },
+  {
+    "Repository": "NiftyPET/NIPET",
+    "File path": "setup.py",
+    "stars": 22
+  },
+  {
+    "Repository": "potassco/clingcon",
+    "File path": "setup.py",
+    "stars": 22
+  },
+  {
+    "Repository": "daanzu/wav2vec2_stt_python",
+    "File path": "setup.py",
+    "stars": 22
+  },
+  {
+    "Repository": "RedFantom/masterkeys-linux",
+    "File path": "setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKTextureFeatures",
+    "File path": "setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "fedebenelli/PyForFluids",
+    "File path": "setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "python-packaging/dowsing",
+    "File path": "dowsing/setuptools/setup_py_parsing.py",
+    "stars": 21
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKMinimalPathExtraction",
+    "File path": "setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "kokkos/pykokkos-base",
+    "File path": "setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "equinor/oneseismic",
+    "File path": "python/setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "MrGolden1/sort-python",
+    "File path": "setup.py",
+    "stars": 21
+  },
+  {
+    "Repository": "anibali/tvl",
+    "File path": "tvl_backends/tvl-backends-fffr/setup.py",
+    "stars": 20
+  },
+  {
+    "Repository": "cbritopacheco/rodin",
+    "File path": "setup.py",
+    "stars": 20
+  },
+  {
+    "Repository": "rakytap/sequential-quantum-gate-decomposer",
+    "File path": "setup.py",
+    "stars": 20
+  },
+  {
+    "Repository": "anibali/tvl",
+    "File path": "tvl_backends/tvl-backends-nvdec/setup.py",
+    "stars": 20
+  },
+  {
+    "Repository": "fastscape-lem/fastscapelib-fortran",
+    "File path": "setup.py",
+    "stars": 19
+  },
+  {
+    "Repository": "Maximilian-Winter/pytonium",
+    "File path": "src/pytonium_python_framework/setup.py",
+    "stars": 19
+  },
+  {
+    "Repository": "theengs/explorer",
+    "File path": "setup.py",
+    "stars": 19
+  },
+  {
+    "Repository": "dumux/dumux",
+    "File path": "setup.py",
+    "stars": 19
+  },
+  {
+    "Repository": "Narasimha1997/py_cpu",
+    "File path": "setup.py",
+    "stars": 18
+  },
+  {
+    "Repository": "SafeRoboticsLab/Safe_Occlusion_Aware_Planning",
+    "File path": "ThirdParty/octomap-python/setup.py",
+    "stars": 18
+  },
+  {
+    "Repository": "Barkhausen-Institut/hermespy",
+    "File path": "setup.py",
+    "stars": 18
+  },
+  {
+    "Repository": "wolfmanstout/talon-gaze-ocr",
+    "File path": ".subtrees/rapidfuzz/setup.py",
+    "stars": 18
+  },
+  {
+    "Repository": "wolfmanstout/talon-gaze-ocr",
+    "File path": ".subtrees/jarowinkler/setup.py",
+    "stars": 18
+  },
+  {
+    "Repository": "clEsperanto/pyclesperanto",
+    "File path": "setup.py",
+    "stars": 18
+  },
+  {
+    "Repository": "Nicholaswogan/fortran-cython-examples",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "kaaengine/kaa",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "cluster3d/cluster3d.github.io",
+    "File path": "baseline method/AtlasNet/auxiliary/sampling_and_meshing/O-CNN/virtual_scanner/setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "primitiv/primitiv-python",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "tdegeus/cppcolormap",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "PrincetonUniversity/SPEC",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "tjol/ckdl",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "TkinterEP/python-tkextrafont",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "dmpelt/foam_ct_phantom",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "Nicholaswogan/PhotochemPy",
+    "File path": "setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "HITS-MCM/gromacs-ramd",
+    "File path": "python_packaging/src/setup.py",
+    "stars": 17
+  },
+  {
+    "Repository": "tilde-lab/pyfactxx",
+    "File path": "FaCT++.Python/setup.py",
+    "stars": 16
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKColorNormalization",
+    "File path": "setup.py",
+    "stars": 16
+  },
+  {
+    "Repository": "learnforpractice/pyeoskit",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "MikePopoloski/pyslang",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "EthanJamesLew/f16-flight-dynamics",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "terrierteam/pyterrier_pisa",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "Kitware/DIVA",
+    "File path": "python/setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "dune-project/dune-grid",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "learnforpractice/mixin-python",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "OpenChemistry/stempy",
+    "File path": "setup.py",
+    "stars": 15
+  },
+  {
+    "Repository": "IBM/libgroupsig",
+    "File path": "src/wrappers/python/setup.py",
+    "stars": 14
+  },
+  {
+    "Repository": "dioptra-io/caracal",
+    "File path": "setup.py",
+    "stars": 14
+  },
+  {
+    "Repository": "yaozhenghangma/Material-MC",
+    "File path": "setup.py",
+    "stars": 14
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKVtkGlue",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "aldebaran/libqi-python",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "pupil-labs/pupil-detectors",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "HiroIshida/tinyfk",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKGrowCut",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "planetmarshall/pillow-jpls",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "airsim/rmol",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "jimbraun/XCDF",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "dekamps/miind",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "dantrim/hamming-codec",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "SimpleITK/SimpleITKPythonPackage",
+    "File path": "setup.py",
+    "stars": 13
+  },
+  {
+    "Repository": "SarderLab/Histo-cloud",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "gnikit/findent-pypi",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "sasq64/musicplayer",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "fadoss/maude-bindings",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "flatironinstitute/baobzi",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "jupyter-xeus/xeus-python-wheel",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKIsotropicWavelets",
+    "File path": "setup.py",
+    "stars": 12
+  },
+  {
+    "Repository": "maxbachmann/CyDifflib",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "Kitware/LookingGlassVTKModule",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "cms-nanoAOD/correctionlib",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "NiftyPET/NIMPA",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "trep/opentrep",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "cellml/libcellml",
+    "File path": "src/bindings/python/cibuildwheel.setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "OpenJij/cimod",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "epiqc/PartialCompilation",
+    "File path": "qiskit-aer/setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "RangamaniLabUCSD/Mem3DG",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "Narasimha1997/py-smartreply",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "dfm/kepler.py",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "reticula-network/reticula-python",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "lewiswolf/kac_drumset",
+    "File path": "setup.py",
+    "stars": 11
+  },
+  {
+    "Repository": "uuosio/gscdk",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "IntelPython/dpbench",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKAnisotropicDiffusionLBR",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "kjelljorner/libconeangle",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "RUrlus/diptest",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "mephi42/memtrace",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "DeepLearnPhysics/larcv3",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKIOOpenSlide",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/LesionSizingToolkit",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "mivade/IonMD",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKTotalVariation",
+    "File path": "setup.py",
+    "stars": 10
+  },
+  {
+    "Repository": "Nicholaswogan/skbuild-f2py-examples",
+    "File path": "hello-fortran-numba-callbacks/setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "tcsantini/eyerec-python",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "lyckantropen/psnr_hvsm",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "rathaumons/pyppbox",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "KitwareMedical/ITKIOScanco",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "panda-official/WaveletBuffer",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "Nicholaswogan/skbuild-f2py-examples",
+    "File path": "hello-fortran/setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "HiroIshida/voxbloxpy",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "GrammaTech/mc-asm",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "patmjen/pygorpho",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "inlab-geo/espresso",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "fmozafari/angel",
+    "File path": "libs/tweedledum/setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "Nicholaswogan/skbuild-f2py-examples",
+    "File path": "hello-fortran-cmaker/setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "Nicholaswogan/skbuild-f2py-examples",
+    "File path": "hello-fortran-dependency/setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "astro-informatics/s2let",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "keichi/kEDM",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "KitwareMedical/ITKStrain",
+    "File path": "setup.py",
+    "stars": 9
+  },
+  {
+    "Repository": "synthizer/synthizer-python",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "PolasekT/ICTree",
+    "File path": "PerceptualMetric/cython/setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "astro-informatics/ssht",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "nightlark/swig-pypi",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "Learning-and-Intelligent-Systems/open-world-tamp",
+    "File path": "vision_utils/AtlasNet/auxiliary/sampling_and_meshing/O-CNN/virtual_scanner/setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "dfm/copier-python",
+    "File path": "template/setup.py.jinja",
+    "stars": 8
+  },
+  {
+    "Repository": "tomography/tomocupy",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "wjakob/ek_python_test",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "dune-project/dune-istl",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "dune-project/dune-geometry",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "segevfiner/cyminhook",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "robocin/rSim",
+    "File path": "setup.py",
+    "stars": 8
+  },
+  {
+    "Repository": "kjelljorner/libdlfind",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "Budapest-Quantum-Computing-Group/piquassoboost",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "lioujheyu/gevo",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "Zhaoyilunnn/q-gpu",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "GERSL/pycold",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "dlech/bleak-winrt",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "GERSL/pycold",
+    "File path": "dev/mwe/setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKBoneMorphometry",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKIOOMEZarrNGFF",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "RUrlus/ModelMetricUncertainty",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "lukasberbuer/rt-vamp-plugin-sdk",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "nasa/upsp-processing",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "barbagroup/geoclaw-landspill",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "nikitinvv/lprec",
+    "File path": "setup.py",
+    "stars": 7
+  },
+  {
+    "Repository": "nv-legate/legate.sparse",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "MDAnalysis/distopia",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "VowpalWabbit/py-vowpal-wabbit-next",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "uuosio/UUOSKit",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "BRGM/ComPASS",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "segevfiner/pybpf_asm",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "tdegeus/GooseFEM",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "MeasureTransport/MParT",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKMeshToPolyData",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "kratsg/pylibmagic",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "phcerdan/SGEXT",
+    "File path": "deploy/setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "tlestang/septembrse_example",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "KitwareMedical/HASI",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "freebsd/freebsd-ports-haskell",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "daanzu/wenet_active_grammar",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "ofmla/seiscope_opt_toolbox_w_ctypes",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "hombit/freddi",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "miquelmassot/g2o-python",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "mayeut/patchelf-pypi",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "astro-informatics/so3",
+    "File path": "setup.py",
+    "stars": 6
+  },
+  {
+    "Repository": "Nicholaswogan/photochem",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "tbrekalo/mini",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "KitwareMedical/itkARGUS_DARPA_POCUS_AI",
+    "File path": "itkARGUS/setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "aimgui/aimgui",
+    "File path": "pkg/aimnodes/setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKThinShellDemons",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "aimgui/aimgui",
+    "File path": "pkg/aimgui/setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "dune-project/dune-localfunctions",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "aimgui/aimgui",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "python-packaging-tutorial/hello-cpp",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "Zirias/zfbsd-ports",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKNDReg",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "bdilday/pychadwick",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "aimgui/aimgui",
+    "File path": "pkg/aimplot/setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "GalaxyHunters/VIVID3D",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "BartoszBartmanski/StoSpa2",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "equinor/ecl3",
+    "File path": "python/setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "upmem/dpu_kmeans",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "airsim/trademgen",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKArrayFire",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "classner/forpy",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "OliverBScott/align-it",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "brentyi/jax_cuda_boilerplate",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "MRChemSoft/vampyr",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKVkFFTBackend",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "hiddenSymmetries/VMEC2000",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "romankempt/hetbuilder",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "InsightSoftwareConsortium/ITKSplitComponents",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "equinor/scikit-build-example",
+    "File path": "setup.py",
+    "stars": 5
+  },
+  {
+    "Repository": "dfm/workflows",
+    "File path": "test-projects/binary/setup.py",
+    "stars": 4
+  },
+  {
+    "Repository": "iory/pySDFGen",
+    "File path": "setup.py",
+    "stars": 4
+  },
+  {
+    "Repository": "yzgyyang/freebsd-ports",
+    "File path": "x11-fonts/py-afdko/files/patch-setup.py",
+    "stars": 3
+  }
+]
