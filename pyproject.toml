@@ -11,8 +11,9 @@ classifiers = [
 ]
 version = "0.1.0"
 dependencies = [
-  "pandas",
   "ipykernel",
+  "packaging",
+  "pandas",
   "pygithub",
   "rich",
 ]
