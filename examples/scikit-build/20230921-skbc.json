@@ -1,0 +1,1752 @@
+[
+  {
+    "path": "python-package/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk2NDk5MTg4Nw==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "microsoft/LightGBM",
+      "url": "https://github.com/microsoft/LightGBM"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJNPtrQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "abetlen/llama-cpp-python",
+      "url": "https://github.com/abetlen/llama-cpp-python"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk5NjM2NTY0Nw==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "AcademySoftwareFoundation/MaterialX",
+      "url": "https://github.com/AcademySoftwareFoundation/MaterialX"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "python_packaging/gmxapi/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMjAxNjQ=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "gromacs/gromacs",
+      "url": "https://github.com/gromacs/gromacs"
+    }
+  },
+  {
+    "path": "src/scicookie/{{cookiecutter.project_slug}}/build-system/scikit-build-core-pyproject.toml",
+    "repository": {
+      "id": "R_kgDOG7LaAA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "osl-incubator/scicookie",
+      "url": "https://github.com/osl-incubator/scicookie"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIft6zw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "benbovy/spherely",
+      "url": "https://github.com/benbovy/spherely"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk4MDc0MDg1MQ==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "project-gemmi/gemmi",
+      "url": "https://github.com/project-gemmi/gemmi"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxNjg3Njc1ODE=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "douglasdavis/pygram11",
+      "url": "https://github.com/douglasdavis/pygram11"
+    }
+  },
+  {
+    "path": "_pygrit/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHPUUPg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "DynamicaLab/hypergraph-bayesian-reconstruction",
+      "url": "https://github.com/DynamicaLab/hypergraph-bayesian-reconstruction"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyODAyMTk3ODE=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "aestream/aestream",
+      "url": "https://github.com/aestream/aestream"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxMDczNjY2NQ==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "spglib/spglib",
+      "url": "https://github.com/spglib/spglib"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzAxMzg0",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ufz/ogs",
+      "url": "https://github.com/ufz/ogs"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDExNzg2NzM=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "f3d-app/f3d",
+      "url": "https://github.com/f3d-app/f3d"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzODMxNDQ5NQ==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "zerothi/sisl",
+      "url": "https://github.com/zerothi/sisl"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMjA5NDUxOTg=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "mhm-ufz/mHM",
+      "url": "https://github.com/mhm-ufz/mHM"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxODQ3NzU3Njc=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "fikisipi/elkai",
+      "url": "https://github.com/fikisipi/elkai"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJGhIFA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "project-gemmi/gemmi_program_wheel",
+      "url": "https://github.com/project-gemmi/gemmi_program_wheel"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk2OTg2MzA3NA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "arbor-sim/arbor",
+      "url": "https://github.com/arbor-sim/arbor"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxNDUzOTMwNjI=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "HITS-AIN/PINK",
+      "url": "https://github.com/HITS-AIN/PINK"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKC7Zrw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "PRBonn/MapMOS",
+      "url": "https://github.com/PRBonn/MapMOS"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJwrDpg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Freed-Wu/autotools-language-server",
+      "url": "https://github.com/Freed-Wu/autotools-language-server"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDQ3MTQz",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "aewallin/opencamlib",
+      "url": "https://github.com/aewallin/opencamlib"
+    }
+  },
+  {
+    "path": "src/python/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOGwwD9g",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "0vercl0k/udmp-parser",
+      "url": "https://github.com/0vercl0k/udmp-parser"
+    }
+  },
+  {
+    "path": "header-only/examples/pybind11/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDI0MTM3NjI=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-hep/awkward",
+      "url": "https://github.com/scikit-hep/awkward"
+    }
+  },
+  {
+    "path": "content/week12/04-example/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH3x5wg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "henryiii/se-for-sci",
+      "url": "https://github.com/henryiii/se-for-sci"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIjubzw",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-Xili-hope",
+      "url": "https://github.com/APC524-F2022/homework-4-Xili-hope"
+    }
+  },
+  {
+    "path": "python/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH_TDRA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "PRBonn/kiss-icp",
+      "url": "https://github.com/PRBonn/kiss-icp"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxMzM2Mzk3MDg=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "fastscape-lem/fastscapelib",
+      "url": "https://github.com/fastscape-lem/fastscapelib"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJPssQA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "carlislewishard/swiftest",
+      "url": "https://github.com/carlislewishard/swiftest"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKOGHnQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ThalesGroup/xsmp-sdk",
+      "url": "https://github.com/ThalesGroup/xsmp-sdk"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ4XtNg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ilia-kats/numpy-onlinestats",
+      "url": "https://github.com/ilia-kats/numpy-onlinestats"
+    }
+  },
+  {
+    "path": "awkward-cpp/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDI0MTM3NjI=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-hep/awkward",
+      "url": "https://github.com/scikit-hep/awkward"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJgO0ww",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "kasperg3/polygon-coverage-planning",
+      "url": "https://github.com/kasperg3/polygon-coverage-planning"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIOOZVA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "njzjz/openbabel-wheel",
+      "url": "https://github.com/njzjz/openbabel-wheel"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKFvrow",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "hugsy/bochscpu-python",
+      "url": "https://github.com/hugsy/bochscpu-python"
+    }
+  },
+  {
+    "path": "python/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIv-1kQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "alugowski/fast_matrix_market",
+      "url": "https://github.com/alugowski/fast_matrix_market"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJI5I4g",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "datasig-ac-uk/RoughPy",
+      "url": "https://github.com/datasig-ac-uk/RoughPy"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJLRv8Q",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "thomasantony/llamacpp-python",
+      "url": "https://github.com/thomasantony/llamacpp-python"
+    }
+  },
+  {
+    "path": "python/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKDQ7sQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "grigorypas/incremental_solver",
+      "url": "https://github.com/grigorypas/incremental_solver"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIjiVhQ",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-arorap95",
+      "url": "https://github.com/APC524-F2022/homework-4-arorap95"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ422SA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "samuelpmish/LBVH",
+      "url": "https://github.com/samuelpmish/LBVH"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjExNzQ4MTY=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "tmontaigu/laszip-python",
+      "url": "https://github.com/tmontaigu/laszip-python"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTM4NTM0MzA=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Harvard-Neutrino/LeptonInjector",
+      "url": "https://github.com/Harvard-Neutrino/LeptonInjector"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIsRmdg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ulrikpedersen/automatic-carnival",
+      "url": "https://github.com/ulrikpedersen/automatic-carnival"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOI3muJw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "JeanElsner/panda_model",
+      "url": "https://github.com/JeanElsner/panda_model"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/swig/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/dynamic_metadata/local_pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJSjlsA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "microsoft/ark",
+      "url": "https://github.com/microsoft/ark"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMTQ2MzQ4NDE=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "LuisaGroup/LuisaCompute",
+      "url": "https://github.com/LuisaGroup/LuisaCompute"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKNPPww",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "STZRoland/skbuild-template",
+      "url": "https://github.com/STZRoland/skbuild-template"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzI4NDY0Nzg=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "elalish/manifold",
+      "url": "https://github.com/elalish/manifold"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOG-n5Cw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "wjakob/nanobind_example",
+      "url": "https://github.com/wjakob/nanobind_example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJmF3nw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "MohammadRaziei/liburlparser",
+      "url": "https://github.com/MohammadRaziei/liburlparser"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJZOcPQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "lucasjinreal/llamacpp_py",
+      "url": "https://github.com/lucasjinreal/llamacpp_py"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/c/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIjj4dQ",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-dzhang98",
+      "url": "https://github.com/APC524-F2022/homework-4-dzhang98"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk3NjQ4NTg3NA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "namreeb/namigator",
+      "url": "https://github.com/namreeb/namigator"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDI3Nzg1ODk=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "cda-tum/mqt-qmap",
+      "url": "https://github.com/cda-tum/mqt-qmap"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk3MjI4NDQ3",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-hep/iminuit",
+      "url": "https://github.com/scikit-hep/iminuit"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHy29Gw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "g4edge/pyg4ometry",
+      "url": "https://github.com/g4edge/pyg4ometry"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMzEzNzY4MDQ=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "cda-tum/mqt-qcec",
+      "url": "https://github.com/cda-tum/mqt-qcec"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjMzOTgzMzI=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "drjdlarson/gncpy",
+      "url": "https://github.com/drjdlarson/gncpy"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTI4MDAzODQ=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "nismod/snail",
+      "url": "https://github.com/nismod/snail"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ3Ghng",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "luhsoccer/luhsoccer_baguette",
+      "url": "https://github.com/luhsoccer/luhsoccer_baguette"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKHyIUw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ManasviGoyal/kaitai_awkward_runtime",
+      "url": "https://github.com/ManasviGoyal/kaitai_awkward_runtime"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzU0NTY0MTI=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "pyresidfp/pyresidfp",
+      "url": "https://github.com/pyresidfp/pyresidfp"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDcxMTQx",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "dfm/python-fsps",
+      "url": "https://github.com/dfm/python-fsps"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJEMRFQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "eduardohenriquearnold/oaktree",
+      "url": "https://github.com/eduardohenriquearnold/oaktree"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ1eWiA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Krande/adacpp",
+      "url": "https://github.com/Krande/adacpp"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJyyAsw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "graphcore-research/tessellate-ipu",
+      "url": "https://github.com/graphcore-research/tessellate-ipu"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJJlNZQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "NVIDIA/cuda-quantum",
+      "url": "https://github.com/NVIDIA/cuda-quantum"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJkQ0xQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "lipracer/cuda-rt-hook",
+      "url": "https://github.com/lipracer/cuda-rt-hook"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJi6nxQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "abetlen/ggml-python",
+      "url": "https://github.com/abetlen/ggml-python"
+    }
+  },
+  {
+    "path": "src/am4utils/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjY1MzM2MTk=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "cathaypacific8747/am4bot",
+      "url": "https://github.com/cathaypacific8747/am4bot"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTM5NjM0MzQ=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "usgs-coupled/phreeqcrm",
+      "url": "https://github.com/usgs-coupled/phreeqcrm"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzgyMzA5NDE=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ssciwr/pybind11-numpy-example",
+      "url": "https://github.com/ssciwr/pybind11-numpy-example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOGT_ysQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "moritz-h/satisfactory-3d-map",
+      "url": "https://github.com/moritz-h/satisfactory-3d-map"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMzEzNDMxMjA=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "cda-tum/mqt-core",
+      "url": "https://github.com/cda-tum/mqt-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJxSHtw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Freed-Wu/bitbake-language-server",
+      "url": "https://github.com/Freed-Wu/bitbake-language-server"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHbXQnw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "BaseGraph/BaseGraphExtensionExample",
+      "url": "https://github.com/BaseGraph/BaseGraphExtensionExample"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJxZvuQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "golmschenk/scikit_build_core_minimal_shared_library_example",
+      "url": "https://github.com/golmschenk/scikit_build_core_minimal_shared_library_example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIjlZwQ",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-hstone31",
+      "url": "https://github.com/APC524-F2022/homework-4-hstone31"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIqQ4AQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "nasa/upsp-processing",
+      "url": "https://github.com/nasa/upsp-processing"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKHe3Gw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "hcho3/scikit_build_example",
+      "url": "https://github.com/hcho3/scikit_build_example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJAK1eA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "agoose77/pymstar",
+      "url": "https://github.com/agoose77/pymstar"
+    }
+  },
+  {
+    "path": "projects/pi-fortran/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk2NzA0NDc3OA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-sample-projects",
+      "url": "https://github.com/scikit-build/scikit-build-sample-projects"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDE3Nzc0NzU=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "edwenger/emodlib",
+      "url": "https://github.com/edwenger/emodlib"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIkffDg",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-lipebento1",
+      "url": "https://github.com/APC524-F2022/homework-4-lipebento1"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxODUxODUyODA=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "spatial-model-editor/spatial-model-editor",
+      "url": "https://github.com/spatial-model-editor/spatial-model-editor"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDk0MDcyNzI=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "FEniCS/basix",
+      "url": "https://github.com/FEniCS/basix"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJEdP4A",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Blosc/blosc2_plugin_example",
+      "url": "https://github.com/Blosc/blosc2_plugin_example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMzk3MzExOTU=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "cda-tum/mqt-ddsim",
+      "url": "https://github.com/cda-tum/mqt-ddsim"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHyaJjA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "AutonoLab/pteranodon",
+      "url": "https://github.com/AutonoLab/pteranodon"
+    }
+  },
+  {
+    "path": "ext/pybind11/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk1NDk5OTI0MA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "henson-insitu/henson",
+      "url": "https://github.com/henson-insitu/henson"
+    }
+  },
+  {
+    "path": "bindings/python/pybind11/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk5NzI2NDczMg==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "mrzv/dionysus",
+      "url": "https://github.com/mrzv/dionysus"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOImbEIA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "njzjz/lammps-wheel",
+      "url": "https://github.com/njzjz/lammps-wheel"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOI-klqQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "dtcc-platform/dtcc-builder",
+      "url": "https://github.com/dtcc-platform/dtcc-builder"
+    }
+  },
+  {
+    "path": "torch-extensions/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTIwNjExMDU=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "woywoy123/AnalysisG",
+      "url": "https://github.com/woywoy123/AnalysisG"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJpmVGA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "gis-ops/py-osrm",
+      "url": "https://github.com/gis-ops/py-osrm"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIkerDQ",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-gmantegna",
+      "url": "https://github.com/APC524-F2022/homework-4-gmantegna"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIj2GKQ",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-JunEshimaP",
+      "url": "https://github.com/APC524-F2022/homework-4-JunEshimaP"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIj7roA",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-jtarrington",
+      "url": "https://github.com/APC524-F2022/homework-4-jtarrington"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIl-FCw",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-johnboerchers",
+      "url": "https://github.com/APC524-F2022/homework-4-johnboerchers"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIjj3Xg",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-judymao",
+      "url": "https://github.com/APC524-F2022/homework-4-judymao"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOImCTNQ",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-sydney-rzepka",
+      "url": "https://github.com/APC524-F2022/homework-4-sydney-rzepka"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIlWmLw",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-jiachenl2021",
+      "url": "https://github.com/APC524-F2022/homework-4-jiachenl2021"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIj-wJA",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-manuel-k2",
+      "url": "https://github.com/APC524-F2022/homework-4-manuel-k2"
+    }
+  },
+  {
+    "path": "src/phast/PhreeqcRM/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOGKdSVQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "usgs-coupled/phast3",
+      "url": "https://github.com/usgs-coupled/phast3"
+    }
+  },
+  {
+    "path": "vs2drtJni/src/PhreeqcRM/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOGO7g8A",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "usgs-coupled/vs2di",
+      "url": "https://github.com/usgs-coupled/vs2di"
+    }
+  },
+  {
+    "path": "src/PhreeqcRM/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOGO7laQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "usgs-coupled/vs2drt",
+      "url": "https://github.com/usgs-coupled/vs2drt"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIjpNXw",
+      "isFork": false,
+      "isPrivate": true,
+      "nameWithOwner": "APC524-F2022/homework-4-gombrowicz94",
+      "url": "https://github.com/APC524-F2022/homework-4-gombrowicz94"
+    }
+  },
+  {
+    "path": "bindings/python/pybind11/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMTIzNTY3Nzc=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "anigmetov/oineus",
+      "url": "https://github.com/anigmetov/oineus"
+    }
+  },
+  {
+    "path": "oxpy/pybind11/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDkwNzk4MjQ=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "lorenzo-rovigatti/oxDNA",
+      "url": "https://github.com/lorenzo-rovigatti/oxDNA"
+    }
+  },
+  {
+    "path": "ext/pybind11/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxMDI3ODU4MDY=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "mrzv/diode",
+      "url": "https://github.com/mrzv/diode"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJEh2-g",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "VOLTTRON/pybind11",
+      "url": "https://github.com/VOLTTRON/pybind11"
+    }
+  },
+  {
+    "path": "machinelearning/pybind11/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH9UXkQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ShangqunYu/hopper2d",
+      "url": "https://github.com/ShangqunYu/hopper2d"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/abi3/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "{{cookiecutter.project_name}}/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjY0Nzc2MDg=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scientific-python/cookie",
+      "url": "https://github.com/scientific-python/cookie"
+    }
+  },
+  {
+    "path": "masskit_ext/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIgfKIQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "usnistgov/masskit",
+      "url": "https://github.com/usnistgov/masskit"
+    }
+  },
+  {
+    "path": "projects/core-c-hello/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk2NzA0NDc3OA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-sample-projects",
+      "url": "https://github.com/scikit-build/scikit-build-sample-projects"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOGtbJZA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "SideChannelMarvels/BlueGalaxyEnergy",
+      "url": "https://github.com/SideChannelMarvels/BlueGalaxyEnergy"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHGNCJQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "clEsperanto/pyclesperanto",
+      "url": "https://github.com/clEsperanto/pyclesperanto"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ8y8Qw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "JeanElsner/panda-py",
+      "url": "https://github.com/JeanElsner/panda-py"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOI0NzzQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "viljarjf/QM_sim",
+      "url": "https://github.com/viljarjf/QM_sim"
+    }
+  },
+  {
+    "path": "python/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJIu4Jw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "taosdata/taos-udf",
+      "url": "https://github.com/taosdata/taos-udf"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjIzNjU2MDk=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "BaseGraph/BaseGraph",
+      "url": "https://github.com/BaseGraph/BaseGraph"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJXQ_EA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Ouranosinc/raven-hydro",
+      "url": "https://github.com/Ouranosinc/raven-hydro"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOIxgEaQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "westonpace/quiver",
+      "url": "https://github.com/westonpace/quiver"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHB-uCQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "kratsg/pylibmagic",
+      "url": "https://github.com/kratsg/pylibmagic"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOI8w2Wg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "jpauwels/py3dti",
+      "url": "https://github.com/jpauwels/py3dti"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKWuaVA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "hyliu1989/pybind11_class_test",
+      "url": "https://github.com/hyliu1989/pybind11_class_test"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ45hMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "oberbichler/protosaurus",
+      "url": "https://github.com/oberbichler/protosaurus"
+    }
+  },
+  {
+    "path": "bindings/python/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkxNjU2Mzg0NDU=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ghex-org/GHEX",
+      "url": "https://github.com/ghex-org/GHEX"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJko2qQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Freed-Wu/astyle-wheel",
+      "url": "https://github.com/Freed-Wu/astyle-wheel"
+    }
+  },
+  {
+    "path": "cpp_ext/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKNmaYQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "elerac/strand_integration",
+      "url": "https://github.com/elerac/strand_integration"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJZDwSg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "golmschenk/eesunhong",
+      "url": "https://github.com/golmschenk/eesunhong"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ1UYOw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "davidmaaghul/FRAL",
+      "url": "https://github.com/davidmaaghul/FRAL"
+    }
+  },
+  {
+    "path": "docs/examples/downstream/pybind11_example/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKIxxog",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "hcho3/treelite-ng",
+      "url": "https://github.com/hcho3/treelite-ng"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKMeMVw",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "dwastberg/dtcc-tudelft-city3D",
+      "url": "https://github.com/dwastberg/dtcc-tudelft-city3D"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJQotJg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "tumBAIS/RoutingBlocks",
+      "url": "https://github.com/tumBAIS/RoutingBlocks"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJE4vNg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "symbench/diffmesh",
+      "url": "https://github.com/symbench/diffmesh"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/nanobind/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ4Zjgg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "rapidsai/pynvjitlink",
+      "url": "https://github.com/rapidsai/pynvjitlink"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/cython/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJveHwg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "golmschenk/cibuildwheel_fetchcontent_permission_error_example",
+      "url": "https://github.com/golmschenk/cibuildwheel_fetchcontent_permission_error_example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJ7qgeA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ckoraka/tac-hep-coding-jam",
+      "url": "https://github.com/ckoraka/tac-hep-coding-jam"
+    }
+  },
+  {
+    "path": "tests/packages/simple_pyproject_ext/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/abi3_setuptools_ext/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/custom_cmake/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/simple_setuptools_ext/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/sdist_config/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/simple_pyproject_source_dir/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/simplest_c/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/abi3_pyproject_ext/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/filepath_pure/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/cython/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk5NTcyMDQ2OA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "dmlc/treelite",
+      "url": "https://github.com/dmlc/treelite"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjAyOTkxODM=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "petrikvladimir/pyphysx",
+      "url": "https://github.com/petrikvladimir/pyphysx"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJduhKQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "GWMCwing/NEAT-CPP-PY",
+      "url": "https://github.com/GWMCwing/NEAT-CPP-PY"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDg2NzYzNTg=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ssciwr/hammingdist",
+      "url": "https://github.com/ssciwr/hammingdist"
+    }
+  },
+  {
+    "path": "projects/core-pybind11-hello/pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnk2NzA0NDc3OA==",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-sample-projects",
+      "url": "https://github.com/scikit-build/scikit-build-sample-projects"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/pybind11/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKRQckA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "mr-eyes/sourmash_plugin_extract_errors",
+      "url": "https://github.com/mr-eyes/sourmash_plugin_extract_errors"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJhC-UQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "ilias-karimalis/cautious-eureka",
+      "url": "https://github.com/ilias-karimalis/cautious-eureka"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTc3NDM0ODM=",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "pybind/scikit_build_example",
+      "url": "https://github.com/pybind/scikit_build_example"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOJJWznQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "Blosc/blosc2_openhtj2k",
+      "url": "https://github.com/Blosc/blosc2_openhtj2k"
+    }
+  },
+  {
+    "path": "subdir/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKTj83A",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "matthewfeickert/scikit-build-core-example",
+      "url": "https://github.com/matthewfeickert/scikit-build-core-example"
+    }
+  },
+  {
+    "path": "docs/examples/downstream/nanobind_example/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "docs/examples/getting_started/fortran/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/data/baseballmetrics/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOHiPwNg",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "jameslamb/pydistcheck",
+      "url": "https://github.com/jameslamb/pydistcheck"
+    }
+  },
+  {
+    "path": "tests/packages/mixed_setuptools/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/fortran_example/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "tests/packages/dynamic_metadata/pyproject.toml",
+    "repository": {
+      "id": "R_kgDOH1SvMQ",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "scikit-build/scikit-build-core",
+      "url": "https://github.com/scikit-build/scikit-build-core"
+    }
+  },
+  {
+    "path": "pyproject.toml",
+    "repository": {
+      "id": "R_kgDOKAkuDA",
+      "isFork": false,
+      "isPrivate": false,
+      "nameWithOwner": "pangtao22/scikit_build_example",
+      "url": "https://github.com/pangtao22/scikit_build_example"
+    }
+  }
+]
